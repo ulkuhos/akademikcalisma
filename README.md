@@ -1,6 +1,6 @@
-# AkademikCalisma  | **2024/2026 Yüksek Lisans Tezi** | 
+#| **2024/2026 Yüksek Lisans Tezi** | 
 
-# "MAKİNE ÖĞRENMESİ YÖNTEMLERİ İLE E-TİCARETTE MÜŞTERİ KAYBI TAHMİNİ" 
+## "MAKİNE ÖĞRENMESİ YÖNTEMLERİ İLE E-TİCARETTE MÜŞTERİ KAYBI TAHMİNİ" 
 
 ## Genel Bakış
 
